@@ -25,7 +25,7 @@ except ImportError:
 	print '(o o)'.center(44)
 	print 'ooO--(_)--Ooo'.center(44)
 	print W + ' '
-	print ('O S I F').center(44)
+	print ('EL li th y').center(44)
 	print ' '
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
@@ -62,7 +62,7 @@ def baliho():
 		print '(o o)'.center(44)
 		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
-		print ('O S I F').center(44)
+		print ('EL li th y').center(44)
 		print (W + '     [' + G +'Open Source Information Facebook'+ W + ']')
 		print ' '
 ####################################################################
@@ -73,14 +73,14 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Debby Anggraini 'CiKu370'
+    Author     Debby Anggraini 'ahmedellithy'
     Name       OSIF 'Open Source Information Facebook'
     CodeName   D3b2y
     version    full version
-    Date       16/05/2018 09:35:12
+    Date       21//2018 09:35:12
     Team       Blackhole Security
-    Email      xnver404@gmail.com
-    Telegram   @CiKu370
+    Email      ahmed.1.ellithy@gmail.com
+    Telegram   fb/a7med.ellithy
 
 * if you find any errors or problems , please contact
   author
